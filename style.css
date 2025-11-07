@@ -13,3 +13,4 @@ button:hover { filter:brightness(1.05); }
 .big { font-size:40px; font-weight:700; }
 .row { display:flex; gap:16px; align-items:baseline; flex-wrap:wrap; }
 .bad { color:#b91c1c; }
+<!-- Adăugat în branch-ul noua-functie -->
